@@ -131,7 +131,7 @@ project_root/
 │   └── TextBRats/
 │       └── TextBraTSData/
 │           └── BraTS20_Training_001/   # 001.txt
-├── train.py
+├── MultimodalFusionSegmentation.ipynb
 └── results/
 ```
 
